@@ -1,0 +1,48 @@
+_repo: One-Man-s-Poison_32041
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Emsh
+    - Alexander, Ed
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 32041-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillip
+    - Lang, Ned
+    - Barbee, Phillips
+    - O'Donnevan, Finn
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: One Man's Poison
+url: http://www.gutenberg.org/ebooks/32041
